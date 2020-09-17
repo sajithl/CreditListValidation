@@ -1,0 +1,8 @@
+C:\Users\ctsdotnetuser118\source\repos\CreditlimitValidate\DataModel\bin\Debug\netcoreapp3.1\DataModel.deps.json
+C:\Users\ctsdotnetuser118\source\repos\CreditlimitValidate\DataModel\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\ctsdotnetuser118\source\repos\CreditlimitValidate\DataModel\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\ctsdotnetuser118\source\repos\CreditlimitValidate\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfoInputs.cache
+C:\Users\ctsdotnetuser118\source\repos\CreditlimitValidate\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfo.cs
+C:\Users\ctsdotnetuser118\source\repos\CreditlimitValidate\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\ctsdotnetuser118\source\repos\CreditlimitValidate\DataModel\obj\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\ctsdotnetuser118\source\repos\CreditlimitValidate\DataModel\obj\Debug\netcoreapp3.1\DataModel.pdb
